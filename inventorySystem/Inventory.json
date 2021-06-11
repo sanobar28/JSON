@@ -1,0 +1,23 @@
+{
+	"rice": [
+		{
+			"price_per_kg": 60,
+			"name": "basmati",
+			"weight": 35
+		}
+	],
+	"wheats": [
+		{
+			"price_per_kg": 45,
+			"name": "gehu",
+			"weight": 30
+		}
+	],
+	"pulses": [
+		{
+			"price_per_kg": 80,
+			"name": "dal",
+			"weight": 25
+		}
+	]
+}
