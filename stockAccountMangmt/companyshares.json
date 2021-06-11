@@ -1,0 +1,34 @@
+{
+	"companyshares": [
+		{
+			"stockSymbol": "1000",
+			"noOfShares": 250,
+			"price": 2000,
+			"Date": ""
+		},
+		{
+			"stockSymbol": "1001",
+			"noOfShares": 200,
+			"price": 1800,
+			"Date": ""
+		},
+		{
+			"stockSymbol": "1002",
+			"noOfShares": 300,
+			"price": 2400,
+			"Date": ""
+		},
+		{
+			"stockSymbol": "1003",
+			"noOfShares": 320,
+			"price": 2490,
+			"Date": ""
+		},
+		{
+			"stockSymbol": "1004",
+			"noOfShares": 210,
+			"price": 1700,
+			"Date": ""
+		}
+	]
+}
